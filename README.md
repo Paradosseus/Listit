@@ -8,6 +8,8 @@ Frontend:
 
 Backend:
 - Laravel
+
+Database:
 - SQLi
 
 Miscellaneous:

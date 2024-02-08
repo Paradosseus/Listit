@@ -1,5 +1,5 @@
 ## About
-A simple full stack todo list app 📝 
+A simple full stack todo list app 📝  with the use of REST API for integration
 
 ## Tools:
 Frontend:
@@ -11,6 +11,6 @@ Backend:
 - SQLi
 
 Miscellaneous:
--Visual Studio Code
--Postman
--XAMPP
+- Visual Studio Code
+- Postman
+- XAMPP

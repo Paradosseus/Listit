@@ -16,3 +16,4 @@ Miscellaneous:
 - Visual Studio Code
 - Postman
 - XAMPP
+- Vite
